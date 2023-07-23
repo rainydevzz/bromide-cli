@@ -1,6 +1,6 @@
 ## BromideCLI
 
-An easy-to-use CLI tool for the SodiumDB API.\
+An easy-to-use CLI tool for the SodiumDB API.
 
 Options:
 
